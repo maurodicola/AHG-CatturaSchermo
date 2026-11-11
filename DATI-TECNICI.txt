@@ -1,0 +1,9 @@
+Autore: AHG
+Versione: 0.2.0
+ID: pjkfgghgaepmjbhplfpjaagpmglkcpbl
+Host: it.ahg.catturaschermo
+Origine: chrome-extension://pjkfgghgaepmjbhplfpjaagpmglkcpbl/
+Azione: capture
+Permessi: nativeMessaging, storage
+Icona senza popup; esecuzione diretta con action.onClicked.
+Guida disponibile da Opzioni.

@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "Cattura schermo · AHG",
+  "author": "AHG",
+  "version": "0.2.0",
+  "description": "Apre Cattura schermo di Windows con un clic. Autore: AHG. Richiede il componente Windows incluso.",
+  "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuKx2x2OTB1lhuOtVgjC9lqliadgMR9wnpL9w/+6MAhzKMBXZod7uhBWJVcXHOR37OShPp5Eu67yCCxheASgylC4vHRV0gasuwW3s6kYaqrV/lGT7j/sBfwA49ECZ2bgSDDcxmnazIvLC8C2H85xJV5K1MKMQ21fB9jHXVc0OqUFJngmBJmZvcZ3rKgzRTodWVhqprsLuLjrmxEwKez98X01soPanWaSM4thizELXIh+GxOf4Gd3y16w6+SXM6iq5o9M2EUvCgtmeEOp4pNuLjAw05KQgGCSjrYB3EOqXmRrjPBvQ5yctWTcBgaGZcEycq2XQSY1QCe0E0+88PCKdKwIDAQAB",
+  "permissions": [
+    "nativeMessaging",
+    "storage"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "Cattura schermo · AHG"
+  },
+  "options_page": "guida.html",
+  "icons": {
+    "16": "icons/icon16.png",
+    "32": "icons/icon32.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}
