@@ -2,7 +2,7 @@
 
 Autore: **AHG** · Versione **0.2.0** · Microsoft Edge per Windows 10/11.
 
-Mentre navighi con Edge, un clic sulla sua icona - da far visualizzare nella barra degli strumenti - apre il pannello per scegliere rettangolo, finestra o schermo intero, richiamando **Windows + Maiusc + S**. Non c’è un menu intermedio. La scelta dell’appunto o dell’area da catturare avviene nel pannello di Windows.
+Mentre navighi con Edge, un clic sulla sua icona - da far visualizzare nella barra degli strumenti - apre il pannello per scegliere rettangolo, finestra o schermo intero, richiamando **Windows + Maiusc + S**. Non c’è un menu intermedio. La scelta dell’area da catturare avviene nel pannello di Windows.
 
 ## Installazione
 
